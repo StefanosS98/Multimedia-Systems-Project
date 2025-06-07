@@ -2,4 +2,4 @@
 
 A programming project that was developed as a university assignment for the subject of Multimedia Systems. 
 
-This project uses `C++` as language and Flex lexical analyzer.
+This project uses `Python` as language.
